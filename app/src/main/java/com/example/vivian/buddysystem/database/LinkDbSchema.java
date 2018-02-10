@@ -14,8 +14,8 @@ public class LinkDbSchema {
             public static final String ID = "id";
             public static final String BUDDYA = "buddyA";
             public static final String BUDDYB = "buddyB";
-            public static final String STARTTIME = "starttime";
-            public static final String PASSWORD = "password";
+            public static final String STARTTIME = "startTime";
+            public static final String ENDTIME = "endTime";
 
         }
     }
